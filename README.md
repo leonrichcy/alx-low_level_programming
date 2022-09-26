@@ -53,5 +53,5 @@ Some of the tracks where this knowledge will be applied covers the following;
 
 
 ## Credits
-- [Solomon John](https://github.com/Leonrichcy)
+- [Solomon Leon Johnson](https://github.com/Leonrichcy)
 > Other collaborators are acknowledged within each project.
