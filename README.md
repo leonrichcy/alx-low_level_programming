@@ -41,14 +41,14 @@ Some of the tracks where this knowledge will be applied covers the following;
   - Betty Style.
 
 ## Projects
-- [C - Hello, World](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x00-hello_world)
-- [C - Variables, if, else, while](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
-- [C - Functions, nested_loops](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
-- [C - Debugging](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x03-debugging)
-- [C - More functions, more nested loops](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
-- [C - Pointers, arrays and strings](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
-- [C - More pointers, arrays and strings](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
-- [C - Even more pointers, arrays and Strings](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
+- [C - Hello, World](https://github.com/leonrichcy/alx-low_level_programming/tree/master/0x00-hello_world)
+- [C - Variables, if, else, while](https://github.com/leonrichcy/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
+- [C - Functions, nested_loops](https://github.com/leonrichcy/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
+- [C - Debugging](https://github.com/leonrichcy/alx-low_level_programming/tree/master/0x03-debugging)
+- [C - More functions, more nested loops](https://github.com/leonrichcy/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
+- [C - Pointers, arrays and strings](https://github.com/leonrichcy/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
+- [C - More pointers, arrays and strings](https://github.com/leonrichcy/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
+- [C - Even more pointers, arrays and Strings](https://github.com/leonrichcy/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
 
 
 
