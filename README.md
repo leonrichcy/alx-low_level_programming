@@ -49,21 +49,9 @@ Some of the tracks where this knowledge will be applied covers the following;
 - [C - Pointers, arrays and strings](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 - [C - More pointers, arrays and strings](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
 - [C - Even more pointers, arrays and Strings](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
-- [C - Recursion](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x08-recursion)
-- [C - Static Libraries](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x09-static_libraries)
-- [C - argc, argv](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0A-argc_argv)
-- [C - Malloc, Free](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0B-malloc_free)
-- [C - More malloc, Free](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
-- [C - Preprocessor](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0D-preprocessor)
-- [C - Function pointers](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0F-function_pointers)
-- [C - Variadic functions](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x10-variadic_functions)
-- [C - Singly linked lists](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x12-singly_linked_lists)
-- [C - More singly linked lists](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists)
-- [C - Bit manipulation](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x14-bit_manipulation)
-- [C - File I/O](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x15-file_io)
+
 
 
 ## Credits
-- [Oluwatomisin ISOGUN](https://github.com/TosinISOGUN)
-- [Olaoluwa ISOGUN](https://github.com/OlaoluwaISOGUN)
+- [Solomon John](https://github.com/Leonrichcy)
 > Other collaborators are acknowledged within each project.
